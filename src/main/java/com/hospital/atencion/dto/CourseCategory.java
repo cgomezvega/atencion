@@ -8,5 +8,5 @@ public class CourseCategory {
     public String name;
     public String description;
     public Instant created; //Propiedad para saber cuando se creó la categoría de curso
-
+    //Test
 }
